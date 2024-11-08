@@ -8,5 +8,5 @@ de:
 - Lógica de programação
 - Conhecimentos básicos de JavaScript
 - Responsividade
-- 
+ 
 Todos apresentados durante o módulo.
